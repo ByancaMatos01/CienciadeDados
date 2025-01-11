@@ -20,5 +20,5 @@ Se você tiver sugestões, dúvidas ou dicas, fique à vontade para abrir uma is
 
 ## Contato
 
-Caso deseje entrar em contato comigo, envie um e-mail para [seu-email@example.com](mailto:byancathmatos@gmail.com) ou conecte-se comigo no [LinkedIn]((https://www.linkedin.com/in/byanca-matos-/)).
+Caso deseje entrar em contato comigo, envie um e-mail byancathmatos@gmail.com ou conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/byanca-matos-/).
 
